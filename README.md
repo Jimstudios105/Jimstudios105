@@ -12,5 +12,5 @@ step 1 download better discord or Vencord i recomend bettter discord.
 download the thing by using these links:
 https://betterdiscord.app
 https://vencord.dev
-
+step 2. run the program and close discord to.
 Hopefully the tutorial helps.
