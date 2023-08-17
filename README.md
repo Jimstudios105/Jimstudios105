@@ -7,7 +7,7 @@
 Hello People i am a just a normale human and i am doign themes on better discord : O
 So if you whanna download them just find me on Better discord : D
 
-How to use the theme?
+How to use the theme? (on my projects)
 step 1 download better discord or Vencord i recomend bettter discord.
 download the thing by using these links:
 https://betterdiscord.app
